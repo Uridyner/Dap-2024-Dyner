@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776814938300",
+    "project_id": "dap-dyner",
+    "storage_bucket": "dap-dyner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776814938300:android:b931d068e05f4feb2aa8b9",
+        "android_client_info": {
+          "package_name": "com.example.app_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfWhSVUProgW6VJpmmlehzCkX1AhclS7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
